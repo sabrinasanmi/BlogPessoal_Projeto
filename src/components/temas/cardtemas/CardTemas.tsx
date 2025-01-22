@@ -29,4 +29,4 @@ function CardTema({ tema }: CardTemasProps) {
     )
 }
 
-export default CardTema
+export default CardTema;
