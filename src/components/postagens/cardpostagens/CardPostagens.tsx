@@ -20,7 +20,7 @@ function CardPostagem({ postagem }: CardPostagensProps) {
                         {postagem.usuario?.nome}
                     </h3>
                 </div>
-                <div className='p-4 '>
+                <div className='p-4 bg-white'>
                     <h4 className='text-lg font-semibold uppercase'>{postagem.titulo}</h4>
                     <p>{postagem.texto}</p>
                     <p>Tema: {postagem.tema?.descricao}</p>

@@ -93,12 +93,12 @@ function FormTema() {
 
     return (
         <div className="container flex flex-col items-center justify-center mx-auto">
-            <h1 className="text-4xl text-center my-8">
+            <h1 className="text-4xl text-center my-8 text-beige">
                 {id === undefined ? 'Cadastrar Tema' : 'Editar Tema'}
             </h1>
 
             <form className="w-1/2 flex flex-col gap-4" onSubmit={gerarNovoTema}>
-                <div className="flex flex-col gap-2">
+                <div className="flex flex-col gap-2 text-beige">
                     <label htmlFor="descricao">Descrição do Tema</label>
                     <input
                         type="text"
@@ -110,8 +110,8 @@ function FormTema() {
                     />
                 </div>
                 <button
-                    className="rounded text-slate-100 bg-indigo-400 
-                               hover:bg-indigo-800 w-1/2 py-2 mx-auto flex justify-center"
+                    className="rounded font-bold text-slate-100 bg-pink 
+                               hover:bg-pink-light w-1/2 py-2 mx-auto flex justify-center"
                     type="submit">
                     {isLoading ?
                         <RotatingLines

@@ -1,0 +1,65 @@
+[33mcommit 32c53c6edcc15eab6bbab88252a4089f71ec018a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Fri Jan 24 12:15:17 2025 -0300
+
+    style: ajustar cores, fontes e detalhes de estilização nos componentes
+
+[33mcommit c4f72e6c93f720a9dcf9d66a2ba0984950a6fef1[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Fri Jan 24 10:19:34 2025 -0300
+
+    feat: aplicar renderização condicional nos componentes Navbar e Footer
+
+[33mcommit a5298e1df9074731ed95b3e7ea5c1e23ff7ba54d[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Wed Jan 22 14:05:05 2025 -0300
+
+    feat: implementar e estilizar componentes relacionados a postagens
+
+[33mcommit 6512ccd0bf13c729271b7d965e5f1618eb04c8ad[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Tue Jan 21 20:13:54 2025 -0300
+
+    feat: Implementar e estilizar componentes e lógica do projeto.
+
+[33mcommit 12e28f645b07824ffbf8cff90be2ab77d57cebe8[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Tue Jan 21 17:15:29 2025 -0300
+
+    feat: implementar lógica do componente Cadastro com integração ao backend
+
+[33mcommit 152cab76b2c7c03ad19d19cfefadcaba6d954c36[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Mon Jan 20 21:05:09 2025 -0300
+
+    Criar componente Login
+
+[33mcommit 5215b42812b77cbf92379351c6b6446be58ce222[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Mon Jan 20 21:00:28 2025 -0300
+
+    Criar componente Cadastro.
+
+[33mcommit 61d369f1beeb5cad5433d20ccee859ddc8545ff8[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Mon Jan 20 18:09:04 2025 -0300
+
+    Criar rotas com React Router DOM.
+
+[33mcommit eb42ba03073a7022b4482cbd13648b470c3c6c68[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Mon Jan 20 17:58:39 2025 -0300
+
+    Criar componentes Navbar e Footer.
+
+[33mcommit 248fb76717c7b1619abc983bce323ae3f31dcfa6[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Mon Jan 20 15:23:26 2025 -0300
+
+    estilizar componente usando Tailwind
+
+[33mcommit 57e4cc143420642f0483b70501ccd80aaf9bb15d[m
+Author: sabrinasanmi <sanmisabrina@icloud.com>
+Date:   Fri Jan 17 23:33:23 2025 -0300
+
+    feat: criar componente Home com estilização em CSS

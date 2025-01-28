@@ -21,7 +21,7 @@ function Perfil() {
 
             <img 
                 className='w-full h-72 object-cover border-b-8 border-white' 
-                src="https://i.imgur.com/ZZFAmzo.jpg" alt="Capa do Perfil" />
+                src="https://ik.imagekit.io/sanmi/HELLO!%20I_M%20...%20(2).gif?updatedAt=1738025303311" alt="Capa do Perfil" />
 
             <img 
                 className='rounded-full w-56 mx-auto mt-[-8rem] border-8 border-white relative z-10' 

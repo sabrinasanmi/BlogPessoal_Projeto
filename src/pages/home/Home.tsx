@@ -26,9 +26,9 @@ function Home() {
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://ik.imagekit.io/sanmi/mulher-segurando-notebook.jpg?updatedAt=1737727225121"
+                            src="https://ik.imagekit.io/sanmi/Designer%20(3).png?updatedAt=1738027487323"
                             alt="Imagem de uma mulher segurando um notebook"
-                            className={`w-2/3 filter blur-[1px] ${hovered ? "grayscale-0" : "grayscale"} transition-filter duration-500`}
+                            className={`w-3/4 ${hovered ? "grayscale-0" : "grayscale"} transition-filter duration-500`}
                             aria-label="Imagem de uma mulher vestindo uma camisa listrada segurando um notebook contra um fundo amarelo"
                             onMouseEnter={() => setHovered(true)}
                             onMouseLeave={() => setHovered(true)}
